@@ -22,7 +22,6 @@ backend features with **FastAPI** and **LangGraph**.
 
 📍 Islamabad, Pakistan
 
-<!-- ⚠️ REPLACE the LinkedIn URL below with your REAL profile link -->
 <a href="mailto:abdullah.abd6282@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -103,12 +102,12 @@ Statistical hypothesis-testing framework that evaluates whether a UI change mean
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=m-abdullah6282&show_icons=true&hide=stars&hide_border=true&cache_seconds=1800&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah6282&layout=compact&langs_count=6&hide_border=true&cache_seconds=1800&theme=tokyonight" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-one-virid-33.vercel.app/api?username=m-abdullah6282&show_icons=true&hide=stars&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-one-virid-33.vercel.app/api/top-langs/?username=m-abdullah6282&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=m-abdullah6282&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&cache_seconds=1800" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=m-abdullah6282&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 
 </div>
 
