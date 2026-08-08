@@ -2,16 +2,16 @@
 
 <!-- ===== ANIMATED TYPING HEADER ===== -->
 <a href="https://github.com/m-abdullah6282">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abdullah+%F0%9F%91%8B;Python+Developer;Backend+%26+AI+Engineering;FastAPI+%7C+LangGraph+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abdullah+%F0%9F%91%8B;Python+Developer;Backend+%26+AI+Engineering;FastAPI+%7C+LangGraph+%7C+PostgreSQL" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ===== PROFILE BADGES ===== -->
+<!-- ===== PROFILE BADGES (reliable) ===== -->
 <img src="https://komarev.com/ghpvc/?username=m-abdullah6282&label=Profile+Views&color=7aa2f7&style=flat" alt="Profile views" />
 &nbsp;
 <a href="https://github.com/m-abdullah6282?tab=followers">
-  <img src="https://img.shields.io/github/followers/m-abdullah6282?label=Follow&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/m-abdullah6282?label=Follow&style=social" alt="Followers" />
 </a>
 
 <br/><br/>
@@ -23,13 +23,13 @@ backend features with **FastAPI** and **LangGraph**.
 📍 Islamabad, Pakistan
 
 <a href="mailto:abdullah.abd6282@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/abdullah-suleman-573b1a327/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/m-abdullah6282">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -43,32 +43,37 @@ backend features with **FastAPI** and **LangGraph**.
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Backend & AI Orchestration**
+**Backend & Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Databases & Data Science**
+
+**Databases & Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Tools & DevOps**
+**Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
@@ -92,6 +97,7 @@ Statistical hypothesis-testing framework that evaluates whether a UI change mean
 
 <div align="center">
 
+<!-- Self-hosted snake — generated by the GitHub Action, never rate-limits -->
 <img src="https://raw.githubusercontent.com/m-abdullah6282/m-abdullah6282/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
@@ -103,7 +109,7 @@ Statistical hypothesis-testing framework that evaluates whether a UI change mean
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-one-virid-33.vercel.app/api?username=m-abdullah6282&show_icons=true&hide=stars&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-one-virid-33.vercel.app/api/top-langs/?username=m-abdullah6282&layout=compact&langs_count=6&hide=php,javascript,html,css&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-one-virid-33.vercel.app/api/top-langs/?username=m-abdullah6282&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" alt="Top languages" />
 
 <br/>
 
