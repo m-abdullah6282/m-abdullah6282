@@ -2,7 +2,7 @@
 
 <!-- ===== ANIMATED TYPING HEADER ===== -->
 <a href="https://github.com/m-abdullah6282">
-  <img src="https://readme-typing-svg.demolab.comko?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abdullah+%F0%9F%91%8B;Python+Developer;Backend+%26+AI+Engineering;FastAPI+%7C+LangGraph+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abdullah+%F0%9F%91%8B;Python+Developer;Backend+%26+AI+Engineering;FastAPI+%7C+LangGraph+%7C+PostgreSQL" alt="Typing SVG" />
 </a>
 
 <br/>
